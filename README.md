@@ -7,7 +7,7 @@
 
 ## 如何使用这个样式
 
-1. 下载`MEStyle.css`, 以文本格式打开.
+1. 下载[`MEStyle.css`](https://raw.githubusercontent.com/halois/MarkEditor-Theme-DarkStyle/master/MEStyle.css), 以文本格式打开.
 2. 打开MarkEditor的设置(软件左下角).
 3. 在日间样式(或夜间样式)中用`MEStyle.css`中的内容替换, 单击应用样式即可.
 
